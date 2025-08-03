@@ -1,3 +1,3 @@
-### If you wanna checkout some of the cool stuffs inside Distributed System for Algorithms and some of the implementation of cool stuffs like RMI using Java, then you can surely Clone this repo and check it by yourself.
+### If you're interested in exploring some exciting concepts in Distributed Systems and seeing implementations of technologies like RMI in Java, feel free to clone this repository and dive into it yourself.
 
 #### Happy Coding!
